@@ -1,0 +1,10 @@
+D:\FORTEST\DemoApplication\Employee.Data\bin\Debug\netcoreapp3.1\Employee.Data.deps.json
+D:\FORTEST\DemoApplication\Employee.Data\bin\Debug\netcoreapp3.1\Employee.Data.dll
+D:\FORTEST\DemoApplication\Employee.Data\bin\Debug\netcoreapp3.1\Employee.Data.pdb
+D:\FORTEST\DemoApplication\Employee.Data\obj\Debug\netcoreapp3.1\Employee.Data.csproj.AssemblyReference.cache
+D:\FORTEST\DemoApplication\Employee.Data\obj\Debug\netcoreapp3.1\Employee.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FORTEST\DemoApplication\Employee.Data\obj\Debug\netcoreapp3.1\Employee.Data.AssemblyInfoInputs.cache
+D:\FORTEST\DemoApplication\Employee.Data\obj\Debug\netcoreapp3.1\Employee.Data.AssemblyInfo.cs
+D:\FORTEST\DemoApplication\Employee.Data\obj\Debug\netcoreapp3.1\Employee.Data.csproj.CoreCompileInputs.cache
+D:\FORTEST\DemoApplication\Employee.Data\obj\Debug\netcoreapp3.1\Employee.Data.dll
+D:\FORTEST\DemoApplication\Employee.Data\obj\Debug\netcoreapp3.1\Employee.Data.pdb
